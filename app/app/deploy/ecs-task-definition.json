@@ -1,4 +1,4 @@
-"taskRoleArn": "arn:aws:iam::**8071311445510**:role/LabRole"
+"taskRoleArn": "arn:aws:iam::**071311445510**:role/LabRole"
 "executionRoleArn": "arn:aws:iam::**071311445510**:role/LabRole"
 
 {
